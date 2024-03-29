@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DesignPro Subscription</string>
+    <string name="m1">None</string>
+    <string name="m2">Custom Print</string>
+    <string name="m3">Pro-Tools</string>
+
+    <string name="y1">None</string>
+    <string name="y2">Material Designs</string>
+    <string name="y3">Premium-Tools</string>
+
+    <string-array name="design_type">
+        <item>Labels</item>
+        <item>Cards</item>
+        <item>Badges</item>
+    </string-array>
+</resources>
